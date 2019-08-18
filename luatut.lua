@@ -13,11 +13,11 @@ Total = MH + MC + P + D +T
 os.execute("clear")
 print("Who are you calculating for?")
 
-Shit_Producer = io.read()
-if Shit_Producer =="Michael" or Shit_Producer =="michael" then 
-	print("Oh fuck off you wanker!")
+Pooper = io.read()
+if Pooper =="Michael" or Pooper =="michael" then 
+	print("Oh frick off you dingus!")
 	os.exit()
-elseif Shit_Producer =="Dad" then 
+elseif Pooper =="Dad" then 
 	while(1) do
 		print("9999999999999999999999999999999999999999999999999999999999999")
 	end
@@ -25,29 +25,27 @@ elseif Shit_Producer =="Dad" then
 	os.exit()
 end
 
-print("So you are calculating for " .. Shit_Producer)
-
+print("So you are calculating for " .. Pooper)
 print("How long is each poo? (Only put the number please)")
 
 Length = io.read()
 Year = 365
 Mins = Length * Year
 
-
-print(Shit_Producer .. " spends ".. Mins .. " Minutes poopin")
+print(Pooper .. " spends ".. Mins .. " Minutes poopin")
 
 Hour_In_Day = 24
 Min_In_Hour = 60
 Months = 12
 Extra = 3
 Indian_Time = Months * Extra * Length
-print(Shit_Producer .. " spends " .. Indian_Time .. " Extra curry minutes")
+print(Pooper .. " spends " .. Indian_Time .. " Extra curry minutes")
 
-print(Shit_Producer .. " spends " ..Indian_Time + Mins .. " Grand minutes of poopin")
+print(Pooper .. " spends " ..Indian_Time + Mins .. " Grand minutes of poopin")
 
-Total_Shit_Minutes = Indian_Time + Mins
-Total_Shit_Hours = Total_Shit_Minutes / Min_In_Hour
-print(Shit_Producer .. " spends " .. Total_Shit_Hours .. " Grand amount of hours shittin")
+Total_Poop_Minutes = Indian_Time + Mins
+Total_Poop_Hours = Total_Poop_Minutes / Min_In_Hour
+print(Pooper .. " spends " .. Total_Poop_Hours .. " Grand amount of hours poopin")
 
-Total_Days_Shittin = Total_Shit_Hours / Hour_In_Day
-print(Shit_Producer .. " spends " .. Total_Days_Shittin .. " Days shat")
+Total_Days_Poopin = Total_Poop_Hours / Hour_In_Day
+print(Pooper .. " spends " .. Total_Days_Poopin .. " Days pooped")

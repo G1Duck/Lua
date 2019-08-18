@@ -40,9 +40,8 @@ print(FannyFart)
 ]]
 
 print("Hello, Please insert a number,")
-Penis = io.read()
-function Bazonga( x )
+Response = io.read()
+function addboi( x )
 	return x + 69
-	-- body
 end
-print(Bazonga(Penis))
+print(addboi(Response))

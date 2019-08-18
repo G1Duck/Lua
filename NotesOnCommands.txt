@@ -23,3 +23,6 @@ Sublime commands;
 
 cmd s --saves
 cmd n --creates new file
+
+Git Commands
+git -u
