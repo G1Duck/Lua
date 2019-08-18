@@ -7,7 +7,7 @@
 end
 
 
-PrintButCooler("Penis")
+PrintButCooler("Thing")
 
 ]]
 --[[function add( x , y )
@@ -26,11 +26,9 @@ function multiply( x , y )
 	return x * y
 end
 
-FannyFart = add( 69 , 420 )
+Fart = add( 69 , 420 )
 
-print(FannyFart)
-
-
+print(Fart)
 
 
 --subtract(20,10)
