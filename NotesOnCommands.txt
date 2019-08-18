@@ -25,4 +25,6 @@ cmd s --saves
 cmd n --creates new file
 
 Git Commands
-git -u
+git add *
+git commit -m "Message/Description"
+git push -u origin master
