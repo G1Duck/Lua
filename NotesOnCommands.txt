@@ -9,6 +9,7 @@ cat -n --numbers each line
 ls --lists directories
 rm --removes something
 cd --changes directory
+cd can also be used to go straight back to home directory if used alone
 pwd --prints working directories
 mkdir --makes a new directory
 history --shows all recent commands
@@ -19,6 +20,8 @@ date --shows current time
 ctrl c -- quits out of running command
 ctrl l --clears screen
 curl-- fetches a url
+grep -i --finds any words in file (grep -i fart Function.lua/*)
+
 Sublime commands;
 
 cmd s --saves
