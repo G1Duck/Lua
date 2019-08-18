@@ -1,0 +1,25 @@
+notes
+
+unix commands;
+kill --kills running processes
+man --shows manual for each command
+clear - clears the screen
+cat --shows the contentsof file
+cat -n --numbers each line
+ls --lists directories
+rm --removes something
+cd --changes directory
+pwd --prints working directories
+mkdir --makes a new directory
+history --shows all recent commands
+nl --shows line numbers
+time --shows how long command took in seconds
+mv --moves files to different directories
+date --shows current time
+ctrl c -- quits out of running command
+ctrl l --clears screen
+curl-- fetches a url
+Sublime commands;
+
+cmd s --saves
+cmd n --creates new file
