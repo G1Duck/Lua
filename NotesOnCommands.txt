@@ -21,7 +21,7 @@ ctrl c -- quits out of running command
 ctrl l --clears screen
 curl-- fetches a url
 grep -i --finds any words in file (grep -i fart Function.lua/*)
-
+~ --Home directory eg "cd ~/Documents"
 Sublime commands;
 
 cmd s --saves
@@ -31,3 +31,5 @@ Git Commands
 git add *
 git commit -m "Message/Description"
 git push -u origin master
+git status -- shows you anything thats been modified
+git diff -- shows actual change
