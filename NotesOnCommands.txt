@@ -33,3 +33,4 @@ git commit -m "Message/Description"
 git push -u origin master
 git status -- shows you anything thats been modified
 git diff -- shows actual change
+git log --shows commits
