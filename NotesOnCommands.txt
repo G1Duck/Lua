@@ -26,6 +26,7 @@ ctrl l --clears screen
 curl-- fetches a url
 grep -i --finds any words in file (grep -i fart Function.lua/*)
 scp -- securely copy file e.g. scp file michael@45.63.100.150:
+ssh -- securely login to server michael@45.63.100.150
 ~ --Home directory eg "cd ~/Documents"
 
 Git Commands
