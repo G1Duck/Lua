@@ -21,14 +21,12 @@ wget --fetches web addresses
 vim -- edit files in terminal
 date --shows current time
 ctrl c -- quits out of running command
+tmux -- Terminal Multiplexer allows you to run things in the background
 ctrl l --clears screen
 curl-- fetches a url
 grep -i --finds any words in file (grep -i fart Function.lua/*)
+scp -- securely copy file e.g. scp file michael@45.63.100.150:
 ~ --Home directory eg "cd ~/Documents"
-Sublime commands;
-
-cmd s --saves
-cmd n --creates new file
 
 Git Commands
 git add *
@@ -58,3 +56,20 @@ z= -- shows spelling corrections
 :<line number> -- goes to specified line number
 G -- goes to end of file
 gg -- good game / goes to top of file
+
+
+
+
+
+
+
+
+
+
+Tmux stuff;
+
+^b -- command mode
+^b c -- creates new window
+^b n -- cycles through windows
+^b d -- exits tmux window (It stays running though!)
+tmux a -- re enters window
