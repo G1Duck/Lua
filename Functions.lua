@@ -1,7 +1,5 @@
 --Functions
 
-
-
 --[[function PrintButCooler( input )
 	print("Michael:" .. input)
 end
