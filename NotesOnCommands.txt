@@ -1,10 +1,10 @@
-notes
+Notes
 
 unix commands;
 kill --kills running processes
 man --shows manual for each command
 clear - clears the screen
-cat --shows the contentsof file
+cat --shows the contents of file
 cat -n --numbers each line
 ls --lists directories
 rm --removes something
@@ -16,6 +16,9 @@ history --shows all recent commands
 nl --shows line numbers
 time --shows how long command took in seconds
 mv --moves files to different directories
+cp --combat power / copy file
+wget --fetches web addresses
+vim -- edit files in terminal
 date --shows current time
 ctrl c -- quits out of running command
 ctrl l --clears screen
@@ -31,6 +34,27 @@ Git Commands
 git add *
 git commit -m "Message/Description"
 git push -u origin master
-git status -- shows you anything thats been modified
+git status -- shows you anything that's been modified
 git diff -- shows actual change
-git log --shows commits
+git log -- shows commits
+
+Vim stuff
+:q! -- quit WITHOUT saving
+:wq -- quit WITH saving
+o -- open a new line
+O -- new line above cursor
+dd -- deletes current line
+p -- pastes deleted line
+yy -- copies current line
+x -- deletes character under cursor
+i -- insert mode
+d$ -- deletes to end of line
+d0 -- deletes to start of line
+dw -- deletes to end of word
+/ -- searches
+esc -- back to command mode
+:set spell -- shows spelling errors
+z= -- shows spelling corrections
+:<line number> -- goes to specified line number
+G -- goes to end of file
+gg -- good game / goes to top of file
